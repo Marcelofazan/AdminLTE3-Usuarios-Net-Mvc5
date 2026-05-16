@@ -35,9 +35,7 @@ adminlte
 |-----------|-----------|
 | **AdminLTE** | Template de painel administrativo (Dashboard) de código aberto construído com o framework Bootstrap. |
 | **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados |
-
-- **AdminLTE** - Template de painel administrativo (Dashboard) de código aberto construído com o framework Bootstrap.
-- **Dicionário de Dados** -Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados.
+---
 
 #### 🚀 Execução da aplicação
 
