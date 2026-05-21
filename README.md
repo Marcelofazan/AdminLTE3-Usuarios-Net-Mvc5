@@ -36,8 +36,8 @@ adminlte
 | **AdminLTE** | Template de painel administrativo (Dashboard) de código aberto construído com o framework Bootstrap. |
 | **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados |
 
-####  Execução da aplicação
-- Para executar a aplicação é necessário a execução do Script do MySQL. 
+####  Executar a aplicação
+- Para executar a aplicação é necessário executar o Script do MySQL. 
 
 #### ⚠️ String de conexão do banco
 Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
