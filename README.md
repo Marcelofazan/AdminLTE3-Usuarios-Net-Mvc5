@@ -5,7 +5,7 @@ Exemplo de criação de Renderização e utilização do Datatables, realizando 
 | Tecnologia | Descrição |
 |-----------|-----------|
 | **AdminLTE** | Template de painel administrativo (Dashboard) de código aberto construído com o framework Bootstrap. |
-| **AdminLTE** | Usada para transformar tabelas HTML simples em componentes altamente interativos com jQuery DataTables |
+| **DataTables** | Usada para transformar tabelas HTML simples em componentes altamente interativos com jQuery DataTables |
 | **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados |
 
 
