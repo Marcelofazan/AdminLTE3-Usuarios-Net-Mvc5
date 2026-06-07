@@ -8,8 +8,7 @@ Exemplo de criação de Renderização e utilização do Datatables, realizando 
 | **DataTables** | Usada para transformar tabelas HTML simples em componentes altamente interativos com jQuery DataTables |
 | **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados |
 
-
-#### 📁 Requisitos do Projeto
+#### Requisitos do Projeto
 Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0-rc.zip)
