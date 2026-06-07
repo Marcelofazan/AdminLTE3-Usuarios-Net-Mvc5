@@ -9,6 +9,9 @@ Exemplo de criação de Renderização e utilização do Datatables, realizando 
 | **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados |
 
 #### Requisitos do Projeto
+- Para executar a aplicação é necessário executar o Script do MySQL.
+- 
+#### 🔄 Executar a aplicação
 Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0-rc.zip)
@@ -28,9 +31,6 @@ adminlte
         |-------| /js
         |-------| /plugins
 ```
-
-#### 🔄 Executar a aplicação
-- Para executar a aplicação é necessário executar o Script do MySQL. 
 
 #### ⚠️ String de conexão do banco
 Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
