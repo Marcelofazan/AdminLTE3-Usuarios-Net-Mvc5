@@ -41,6 +41,6 @@ adminlte
         |-------| /plugins
 ```
 
-#### Aqui está uma demonstração do projeto
+#### 🎨 Aqui está uma demonstração do projeto
 <img width="1339" height="612" alt="CRUD-AspNet-1-N-AdminLTE" src="https://github.com/user-attachments/assets/5e51fc89-102f-4532-8472-ee729953bac1" />
 
