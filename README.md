@@ -13,20 +13,7 @@ Exemplo de Renderização AdminLTE3 e CRUD utilizando Datatables em C# ASP.NET M
 
 #### Requisitos do Projeto
 - Para executar a aplicação é necessário executar o Script do MySQL.
-
-#### ⚠️ String de conexão do banco
-Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
-
-```bash
-server=127.0.0.1;userid=root;password=SUASENHA;database=SEUBANCO;persistsecurityinfo=True;
-```
-
-O script para criação da tabela do exemplo encontra-se na pasta **Database**.
-
-#### 🔄 Executar a aplicação
-Baixar Pacote de Distribuição de Download da biblioteca e descompactar
-
-- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0-rc.zip)
+- Baixar Pacote de Distribuição de Download da biblioteca e descompactar [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0-rc.zip)
 
 Criar uma nova pasta chamada adminlte no Solution do Projeto
 - Acessar o diretorio na pasta AdminLTE-3.2.0-rc /dist ->  Arrastar as pastas (css), (img) e (js) e Colar dentro da pasta adminlte
@@ -43,3 +30,11 @@ adminlte
         |-------| /js
         |-------| /plugins
 ```
+
+#### ⚠️ String de conexão do banco
+Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
+
+```bash
+server=127.0.0.1;userid=root;password=SUASENHA;database=SEUBANCO;persistsecurityinfo=True;
+```
+O script para criação da tabela do exemplo encontra-se na pasta **Database**.
