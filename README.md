@@ -8,6 +8,7 @@ Exemplo de Renderização AdminLTE3 e CRUD utilizando Datatables em C# ASP.NET M
 | Tecnologia | Descrição |
 |-----------|-----------|
 | **AdminLTE** | Template de painel administrativo (Dashboard) de código aberto construído com o framework Bootstrap. |
+| **Bootstrap** |Framework front-end de códigos prontos em HTML, CSS e JavaScript para criar sites e interfaces web responsivas |
 | **DataTables** | Usada para transformar tabelas HTML simples em componentes altamente interativos com jQuery DataTables |
 | **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados |
 
