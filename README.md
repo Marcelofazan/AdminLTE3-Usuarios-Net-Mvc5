@@ -8,7 +8,7 @@ Exemplo de CRUD e renderização AdminLTE3 em C# ASP.NET MVC5 com banco de dados
 | Tecnologia | Descrição |
 |-----------|-----------|
 | **AdminLTE** | Template de painel administrativo (Dashboard) de código aberto construído com o framework Bootstrap. |
-| **Bootstrap** | Famework front-end de códigos prontos em HTML, CSS e JavaScript para criar sites e interfaces web responsivas |
+| **Bootstrap4** | Famework front-end de códigos prontos em HTML, CSS e JavaScript para criar sites e interfaces web responsivas |
 | **DataTables** | Usada para transformar tabelas HTML simples em componentes altamente interativos com jQuery DataTables |
 | **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados |
 
