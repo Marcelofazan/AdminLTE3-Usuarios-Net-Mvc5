@@ -1,4 +1,4 @@
-## 🌐 AdminLTE3-Net-Mvc5-Crud
+## 🌐 AdminLTE3-Crud-Net-Mvc5
 Exemplo de CRUD e renderização AdminLTE3 em C# ASP.NET MVC5 com banco de dados MySQL.
 
 #### 🎨 Aqui está uma demonstração do projeto
