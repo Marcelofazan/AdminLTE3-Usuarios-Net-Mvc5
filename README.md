@@ -1,4 +1,4 @@
-## 🌐 AdminLTE3-Crud-Net-Mvc5
+## 🌐 AdminLTE3-Usuarios-Net-Mvc5
 Exemplo de projeto AdminLTE3 em C# ASP.NET MVC5 com banco de dados MySQL.
 
 #### 🎨 Aqui está uma demonstração do projeto
