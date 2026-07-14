@@ -1,5 +1,5 @@
 ## 🌐 AdminLTE3-Usuarios-Net-Mvc5
-Exemplo de projeto de cadastro de Usuarios com renderização AdminLTE3 em C# ASP.NET .NETFramework MVC5 com banco de dados MySQL.
+Exemplo de CRUD cadastro de Usuarios com renderização AdminLTE3 em C# ASP.NET .NETFramework MVC5 com banco de dados MySQL.
 
 #### 🎨 Aqui está uma demonstração do projeto
 <img width="800" height="350" alt="CRUD-AspNet-1-N-AdminLTE" src="https://github.com/user-attachments/assets/5e51fc89-102f-4532-8472-ee729953bac1" />
